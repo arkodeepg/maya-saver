@@ -11,8 +11,7 @@ this is a program that is going to save a maya file after every 1 minutes
 	+ pyautogui
 
 + To install any module open up command promt and type
-`pip install <moduleName> ` 
-like for example
+`pip install <moduleName> ` like for example
 `pip install psutil`
 + Download the main.py 
 
