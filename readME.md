@@ -2,9 +2,9 @@
 
 this is a program that is going to save a maya file after every 1 minutes
 
-###configuring it
+### configuring it
 
-####one time installation:
+#### one time installation:
 + install [python](https://www.python.org/ "python")
 + install the following modules
 	+ psutil
@@ -16,7 +16,7 @@ like for example
 `pip install psutil`
 + Download the main.py 
 
-####needed to be done everytime you run maya
+#### needed to be done everytime you run maya
 >it is prefered to copy the main.py to desktop
 
 + open maya 
